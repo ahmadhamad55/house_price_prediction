@@ -1,8 +1,9 @@
 # house_price_prediction
+### English version
 <p align="center">
   <img src="https://github.com/ahmadhamad55/house_price_prediction/blob/main/house-price-forecasts%20(1).jpg"  width="400" height="300">
 </p>
-### English version
+
 In the Ames, Iowa House Prices Prediction project, I participated in a playground competition aimed at predicting the final prices of residential homes. With a dataset containing 79 explanatory variables, I delved into the intricacies of these homes to uncover the factors that significantly impact their prices. From the number of bedrooms to the proximity to a railroad, I explored the diverse range of features and their relationships with housing prices.
 
 To tackle this prediction task, I employed a machine learning approach using a base model called Gradient Boost Regressor. This powerful algorithm provided a solid foundation for modeling the house prices based on the available features. However, I was determined to further enhance the performance and accuracy of the model.
